@@ -2,6 +2,7 @@
 
 PFA,
 The Dataset used in the report is attached.
+DAX_Discussed.txt contains the DAX queries used in the report.
 
 Click on the below link to view the report : 
 
